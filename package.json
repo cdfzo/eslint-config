@@ -1,6 +1,6 @@
 {
   "name": "@cdfzo/eslint-config",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "My personal ESLint configuration",
   "author": "cdfzo",
   "license": "MIT",
@@ -18,11 +18,11 @@
     "url": "https://github.com/cdfzo/eslint-config/issues"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^7.0.0",
-    "@typescript-eslint/parser": "^7.0.0",
-    "eslint": "^8.56.0"
+    "@typescript-eslint/eslint-plugin": "^7.2.0",
+    "@typescript-eslint/parser": "^7.2.0",
+    "eslint": "^8.57.0"
   },
   "peerDependencies": {
-    "typescript": "^5.3.0"
+    "typescript": "^5.4.0"
   }
 }
